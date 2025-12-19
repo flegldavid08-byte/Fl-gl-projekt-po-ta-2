@@ -82,5 +82,9 @@ Síťová karta     Umožňuje počítači připojení k síti (např. domácí 
 
 
 ## VIDEA
+
 ### CITACE
+Pomoc táty a umělé inteligence google Gemii.
+
+GEMII, Google. Rozhovor s modelem Gemini na téma rozebírání počítačů. Online. Gemini (Google AI). 2025, roč. 2025, č. 12, s. 1. Dostupné z: Gemii, https://gemini.google.com/. [cit. 2025-12-19].
 
