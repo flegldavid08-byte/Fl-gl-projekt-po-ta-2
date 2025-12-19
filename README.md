@@ -82,3 +82,5 @@ Síťová karta     Umožňuje počítači připojení k síti (např. domácí 
 
 
 ## VIDEA
+### CITACE
+
