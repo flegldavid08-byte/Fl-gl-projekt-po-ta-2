@@ -71,9 +71,9 @@ RAM ,    Paměť pro dočasné ukládání dat a programových instrukcí, kter�
 
 HDD ,    Trvalé úložiště pro operační systém, programy a soubory uživatele. 
 
-Optická mechanika (Sony Optiarc SATA),    Zařízení pro čtení a zápis dat na optické disky, jako jsou CD a DVD.
+Optická mechanika ,    Zařízení pro čtení a zápis dat na optické disky, jako jsou CD a DVD.
 
-Síťová karta (TP-Link)     Umožňuje počítači připojení k síti (např. domácí router nebo internet)
+Síťová karta     Umožňuje počítači připojení k síti (např. domácí router nebo internet)
 
 
 
