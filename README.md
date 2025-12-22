@@ -75,8 +75,16 @@ Optická mechanika ,    Zařízení pro čtení a zápis dat na optické disky, 
 
 Síťová karta     Umožňuje počítači připojení k síti (např. domácí router nebo internet)
 
-
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="IMG_4320.jpeg" width="250" alt="Měnič – pohled 1">
+  <img src="IMG_4321.jpeg" width="250" alt="Měnič – pohled 2">
+  <img src="IMG_4322.jpeg" width="250" alt="Měnič – detail 1">
+  <img src="IMG_4323.jpeg" width="250" alt="Měnič – detail 2">
+  <img src="IMG_4324.jpeg" width="250" alt="Měnič – vnitřní elektronika">
+  <img src="IMG_4325.jpeg" width="250" alt="Měnič – celkový pohled">
+  <img src="IMG_4326.jpeg" width="250" alt="Měnič – detail konstrukce">
+  <img src="IMG_4327.jpeg" width="250" alt="Měnič – dokumentační snímek">
+</div>
 
 ## Porovnání
 
