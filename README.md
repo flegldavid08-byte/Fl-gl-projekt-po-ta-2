@@ -42,38 +42,52 @@ Ověřil jsem, zda nejsou kabely poškozené.
 Ujistíme se, že jste odpojili napájecí kabely (včetně těch vedoucích k disku a optické mechanice) a datové kabely (SATA).
 ### 4)krok
 #### Vyjmutí úložiště a optické mechaniky
-Pevný disk = Vyjmuli jste pevný disk (HDD).
+V tomto kroku jsem se zaměřil na demontáž mechanik a disků.
+Optická mechanika: Vyjmul jsem DVD±RW vypalovačku Sony Optiarc (model AD-7280S). Tato mechanika využívá pro přenos dat i napájení rozhraní SATA.
+Pevný disk: Demontoval jsem úložiště, které v tomto případě sloužilo pro data a operační systém (na fotkách je vidět uvolněná SATA kabeláž vedoucí k pozicím disků).
+
 ### 5)krok
 #### Vyjmutí Ram
+Následovalo vyjmutí operační paměti ze slotů na základní desce.
+Vyjmul jsem dva paměťové moduly značky Crucial.
+Jedná se o moduly Ballistix (1GB 240-PIN DIMM), které odpovídají standardu DDR2.
+Paměti byly osazeny v černých slotech pro zajištění dvoukanálového zapojení (Dual Channel).
 
 ### 6)krok
 #### Vyjmutí Karet a Zdroje
-Následně jsem odstranil Zdroj
+Dále jsem pokračoval v odstraňování rozšiřujících karet a napájecího bloku.
+Nejdříve jsem odšrouboval a vyjmul přídavnou síťovou kartu Intel, která byla osazena v bílém slotu PCI. Tato karta poskytuje další RJ-45 konektor pro připojení k síti.
+Následně jsem demontoval napájecí zdroj. Jedná se o model Systium SS-300TFX. Na rozdíl od běžných zdrojů má tento úzký profil (formát TFX) a výkon 300W.
+
 ### 7)krok
 #### Vyjmutí základní desky
-Základní deska:
-Procesor (CPU): Procesor jsem vyndal z patice na základní desce.
+Posledním krokem hlavní demontáže bylo uvolnění samotného "srdce" počítače.
+Základní deska: Po odpojení všech zbývajících kabelů jsem vyšrouboval modrou základní desku z šasi. Deska disponuje paticí LGA 775 a čipovou sadou Intel.
+Chlazení: Z procesoru byl sejmut masivní kulatý chladič značky Cooler Master.
+Procesor (CPU): Po odjištění patice jsem vyjmul procesor. Zespodu jsou vidět kontaktní plošky (piny jsou součástí patice na desce), což potvrzuje platformu Intel LGA 775.
+Ventilátor: Součástí demontáže byl i systémový ventilátor AVC, který byl připojen k základní desce pomocí 4-pinového konektoru pro regulaci otáček.
+ 
 ### 8)krok
 #### Kompletní rozložení PC
-Postup jste dodržel správně. Po demontáži máte následující dílčí části, které byly identifikovány na fotkách:
+Postup demontáže byl úspěšně dokončen. Na základě pořízených fotografií byly identifikovány následující díly:
 
-Skříň (Case),
+Skříň (Case): Kompaktní kancelářské provedení (SFF), které vyžadovalo specifické uspořádání komponent.
 
-Základní panel,   Ukazuje konektory pro připojení externích zařízení:
+Základní panel (I/O Shield): Obsahuje porty pro připojení periferií: PS/2 (klávesnice/myš), VGA (D-Sub), sériový port (COM), USB porty, Ethernet (RJ-45) a audio konektory.
 
-Zdroj ,   Převádí střídavý proud ze zásuvky na stejnosměrný proud s různým napětím, které je potřeba k napájení všech komponent v počítači.
+Zdroj (Systium SS-300TFX): Jedná se o napájecí zdroj formátu TFX s výkonem 300W (Active PFC). Převádí střídavý proud ze zásuvky na stejnosměrný proud potřebný pro komponenty.
 
-Základní deska ,
+Základní deska (Intel): Modrá deska s paticí LGA 775. Obsahuje 4 sloty pro RAM, 4 SATA porty a jeden rozšiřující slot PCI Express.
 
-CPU (Procesor, piny dolů),   "Mozek" počítače. Provádí veškeré výpočty a zpracovává instrukce programů. Dle patice na desce je to procesor pro patici LGA.
+CPU (Procesor): Model pro patici Intel LGA 775 (piny jsou umístěny přímo v patici na desce). K chlazení byl použit chladič Cooler Master.
 
-RAM ,    Paměť pro dočasné ukládání dat a programových instrukcí, které CPU aktuálně potřebuje. Rychlý přístup k datům zajišťuje plynulý chod aplikací. 
+RAM (Crucial): Dva moduly Crucial Ballistix (1GB 240-PIN DIMM). Podle typu slotů se jedná o paměti typu DDR2.
 
-HDD ,    Trvalé úložiště pro operační systém, programy a soubory uživatele. 
+Optická mechanika (Sony Optiarc): DVD vypalovačka, model AD-7280S, s rozhraním SATA.
 
-Optická mechanika ,    Zařízení pro čtení a zápis dat na optické disky, jako jsou CD a DVD.
+Síťová karta (Intel): Přídavná karta do slotu PCI, která doplňuje integrovanou síťovou kartu na desce.
 
-Síťová karta     Umožňuje počítači připojení k síti (např. domácí router nebo internet)
+Ventilátor (AVC): Přídavný systémový ventilátor (model DS08025B12U) zajišťující cirkulaci vzduchu ve skříni.
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="IMG_4320.jpeg" width="250" alt="Měnič – pohled 1">
