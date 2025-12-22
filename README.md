@@ -90,7 +90,7 @@ Síťová karta     Umožňuje počítači připojení k síti (např. domácí 
 
 
 ## VIDEA
-
+https://youtu.be/-hNzqul3f-c
 ### CITACE
 Pomoc táty a umělé inteligence google Gemii.
 
