@@ -100,8 +100,31 @@ Ventilátor (AVC): Přídavný systémový ventilátor (model DS08025B12U) zaji�
   <img src="IMG_4327.jpeg" width="250" alt="Měnič – dokumentační snímek">
 </div>
 
-## Porovnání
+## Porovnání komponent: První počítač vs. Druhý počítač
 
+
+### Tabulkové srovnání
+
+| Komponent | První počítač (Předloha) | Druhý počítač (Realita) | Verdikt |
+| :--- | :--- | :--- | :--- |
+| **Základní deska** | **ASUS P5QL-E** | **Intel (modrá)** | **První počítač** nabízí více rozšiřujících slotů. |
+| **Operační paměť** | **Kingston ValueRAM** | **Crucial Ballistix DDR2** | **Druhý počítač** disponuje prémiovou řadou pamětí. |
+| **Napájecí zdroj** | **ARENA 355W** | **Systium (Seasonic) 300W** | **Druhý počítač** má kvalitnější zdroj s vyšší efektivitou. |
+| **Chlazení CPU** | Standardní chladič | **Cooler Master** | **Druhý počítač** má robustnější chladící systém. |
+| **Přídavný ventilátor** | Standardní (AVC) | **AVC (DS08025B12U)** | **Shodné**, oba používají odolný model s kuličkovým ložiskem. |
+| **Síťová karta** | **TP-Link PCI** | **Intel PCI** | **Druhý počítač** používá stabilnější síťové řešení Intel. |
+
+### Celkové zhodnocení
+
+**Který počítač je lepší?**
+
+I když má **První počítač** o něco vybavenější základní desku, **Druhý počítač** považuji za celkově lepší díky kvalitě použitých komponent:
+
+* **Spolehlivost:** **Druhý počítač** využívá špičkový napájecí zdroj **Systium** (Seasonic) a profesionální síťovou kartu **Intel**.
+* **Výkon RAM:** Paměti **Crucial Ballistix** ve **Druhém počítači** patří do vyšší výkonnostní třídy.
+* **Chlazení:** Kombinace chladiče **Cooler Master** a průmyslového ventilátoru **AVC** zajišťuje ve **Druhém počítači** lepší odvod tepla a delší životnost.
+
+**Druhý počítač** je postaven z technicky vyspělejšího hardwaru, který je i přes kompaktnější rozměry skříně odolnější a spolehlivější.
 
 ## VIDEA
 https://youtu.be/-hNzqul3f-c
